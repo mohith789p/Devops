@@ -64,7 +64,6 @@ class CalculatorTest {
     // 10. Divide by zero (exception case)    
     @Test
     void testDivideByZero() {
-        // This is how you handle exceptions in JUnit 5
         assertThrows(ArithmeticException.class, () -> {
             calc.divide(10, 0);
         });
