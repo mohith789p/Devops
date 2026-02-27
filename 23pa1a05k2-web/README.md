@@ -44,7 +44,7 @@ This project uses Nginx Envsubst to inject variables at runtime. You do not need
 ### 🌐 Public Docker Image
 The prebuilt image is available on Docker Hub:
 
-**Repository:** [mohith789p/devops](https://hub.docker.com/repository/docker/mohith789p/devops)
+**Repository:** [mohith789p/devops](https://hub.docker.com/r/mohith789p/devops)
 
 **Pull Command:**
   ```bash
